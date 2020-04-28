@@ -1,0 +1,23 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasra Jannati",
+  "license": "ISC",
+  "description": "election voting",
+  "dependencies": {
+    "truffle": "^5.1.22",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
