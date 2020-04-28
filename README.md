@@ -11,7 +11,9 @@ npm i lite-server
 *Deployment
 
 npm install -g truffle
+
 npm install
+
 npm run dev
 
 
